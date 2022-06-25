@@ -1,2 +1,0 @@
-# Calculate
-A production calculator
